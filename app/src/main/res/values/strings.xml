@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Solstice</string>
+    <string name="overview">Overview</string>
+    <string name="contacts">Contacts</string>
+    <string name="favorite_title">Favorite contact</string>
+    <string name="others_title">Other contacts</string>
+    <string name="phone">Phone:</string>
+    <string name="address">Address:</string>
+    <string name="birthdate">Birthdate:</string>
+    <string name="email">Email:</string>
+    <string name="favorite_action">favorite</string>
+</resources>
